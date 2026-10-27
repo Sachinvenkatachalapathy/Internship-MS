@@ -10,7 +10,7 @@ import mailIcon from '../assets/Login/mail.png';
 import lockIcon from '../assets/Login/Lock.png';
 import eyeOpen from '../assets/Login/Eye open.png';
 import rightArrow from '../assets/Login/Right Arrow.png';
-import googleIcon from '../assets/Login/Googleicon.png';
+import googleIcon from '../assets/Login/GoogleIcon.png';
 
 export function Login() { 
   const [email, setEmail] = useState('');
